@@ -1,0 +1,14 @@
+body {
+    background-color: blueviolet;
+}
+p {
+    font-size: 24px;
+    color: antiquewhite;
+    font-weight: bold;
+}
+.Texto {
+    color: rgb(226, 100, 17);
+}
+.Texto2 {
+    color: aqua;
+}
